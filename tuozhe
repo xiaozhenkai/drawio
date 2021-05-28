@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T13:55:36.093Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="HqQ2cBfqS8QSYADuGhKR" version="14.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T13:57:28.191Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="LB8KXx2-TWpOU9yaLgnX" version="14.7.1" type="github">
   <diagram id="6E9i8vjZxH_WEbQz7LKc" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,16 +42,8 @@
         <mxCell id="sKdB00fp6zd5y0-pWWmN-13" value="x4.tuozhe8.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="340" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="sKdB00fp6zd5y0-pWWmN-15" value="x4.tuozhe8.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="230" width="40" height="20" as="geometry" />
-        </mxCell>
-        <UserObject label="222.187.221.75" id="sKdB00fp6zd5y0-pWWmN-16">
-          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="125" y="240" width="110" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="sKdB00fp6zd5y0-pWWmN-19" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fillColor=#D5B5FF;" vertex="1" parent="1">
-          <mxGeometry x="145" y="380" width="75" height="50" as="geometry" />
+        <mxCell id="sKdB00fp6zd5y0-pWWmN-15" value="x4.tuozhe8.com&lt;span style=&quot;text-align: left&quot;&gt;&amp;nbsp; 222.187.221.75&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
